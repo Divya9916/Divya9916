@@ -1,5 +1,5 @@
 # Hi, I'm Divya Sharma 👋
-💼 Aspiring Data Analyst
+💼 Aspiring Data Analyst<br>
 📍 Jodhpur(Raj), India
 
 ## About Me
