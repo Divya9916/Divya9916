@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Divya Sharma 👋
+💼 Data Analyst | Aspiring Data Analyst
+📍 Jodhpur(Raj), India
 
-<!--
-**Divya9916/Divya9916** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Aspiring Data Analyst passionate about transforming raw data into actionable business insights.
+Skilled in Excel, SQL, Python, Excel & Power BI
+Strong in KPI tracking, dashboards & data validation
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Interested in:
+- Business Analytics
+- Sales & Revenue Analysis
+- Dashboard Development
+- Data Cleaning & Automation
+- KPI Reporting
+
+---
+
+## Skills
+
+SQL | Python | Power BI | Excel | Data Analysis | KPI Reporting
+
+---
+
+## Featured Projects
+
+📊 Capstone NYSE – Performed end-to-end sales analysis using SQL, Python, and Power BI
+
+🛍️ Myntra Customer Analytics – Product trends, customer behavior & sales dashboard
+
+🧾 Supermarket Billing System – Automated billing, inventory tracking & sales records
+
+---
+
+## Currently Learning
+- Advanced SQL
+- DAX
+- Data Storytelling
+- Statistical Analysis
+- Automation with Python
+
+---
+
+## Connect With Me
+- LinkedIn: linkedin.com/in/divya9916
+- Email: divya649sharma99@gmail.com
+---
+
+⭐ Always learning and building data-driven solutions.
