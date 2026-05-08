@@ -43,7 +43,7 @@ SQL | Python | Power BI | Excel | Data Analysis | KPI Reporting
 ---
 
 ## Connect With Me
-- LinkedIn: linkedin.com/in/divya9916
+- LinkedIn: www.linkedin.com/in/divya9916
 - Email: divya649sharma99@gmail.com
 ---
 
